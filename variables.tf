@@ -118,5 +118,5 @@ variable "rds_publicly_accessible" {
 
 ##cambiar la direccion de acuerdo a la ip publica {
 variable "public_ip" {
-  default     = "181.32.152.194/32"
+  default     = "ip_publica/32"
 }
