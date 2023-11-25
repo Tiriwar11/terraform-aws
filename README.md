@@ -39,4 +39,4 @@ Consideraciones:
 
 Esta es la página desplegada en AWS
 
-![Alt text](Imagen3.png)
+![Alt text](Imagen4.png)
